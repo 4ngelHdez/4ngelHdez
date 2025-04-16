@@ -29,5 +29,6 @@ Busco una oportunidad en el área de Data Analytics o Business Intelligence, don
 
 #### ¿Dónde encontrarme?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel_Hernández_Sosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angel-hernandez-sosa/)
+[![Discord](https://img.shields.io/badge/Discord-Angel_Hdez-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](4ngelhdez1237554981381472267)
 
 #### Skills:  
