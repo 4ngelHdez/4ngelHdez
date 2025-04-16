@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 #### ¿Dónde encontrarme?
-- [LinkedIn] (https://www.linkedin.com/in/angel-hernandez-sosa/)
-- [Email] (j.angel.hdez1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/angel-hernandez-sosa/)
+- [Email](j.angel.hdez1@gmail.com)
