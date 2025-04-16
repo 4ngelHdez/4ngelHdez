@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### ¿Dónde encontrarme?
+- [LinkedIn] (https://www.linkedin.com/in/angel-hernandez-sosa/)
+- [Email] (j.angel.hdez1@gmail.com)
