@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a todos!!! 👋
 
 <!--
 **4ngelHdez/4ngelHdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +33,7 @@ Busco una oportunidad en el área de Data Analytics o Business Intelligence, don
 
 #### Skills:  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998)
+![SQL](https://img.shields.io/badge/SQL-1B1F23?style=flat&logo=postgresql&logoColor=00E5FF)
+![Tableau](https://img.shields.io/badge/Tableau-005F73?style=flat&logo=tableau&logoColor=FFB703)
+![Excel Avanzado](https://img.shields.io/badge/Excel_Avanzado-3BCEAC?style=flat&logo=microsoft-excel&logoColor=1D3557)
