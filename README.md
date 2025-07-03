@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://github.com/4ngelHdez](https://media.licdn.com/dms/image/v2/D4E16AQE3hBB5PvhsOA/profile-displaybackgroundimage-shrink_350_1400/B4EZY7wYSmHcBE-/0/1744759260980?e=1750291200&v=beta&t=oMghywg8IXI8Lge9jWL0CToqp-phrdbg55-6JsbmZIY)
+![https://github.com/4ngelHdez](https://media.licdn.com/dms/image/v2/D4D16AQF7rc1lihVEog/profile-displaybackgroundimage-shrink_350_1400/B4DZeE3QI0HMAY-/0/1750280766644?e=1756944000&v=beta&t=XVZEEHcirU8ZauI-m3Nm6eCD5ZkKOW8gCk3QRC44nBA)
 
 ### Qué hay acerca de mi???
 
