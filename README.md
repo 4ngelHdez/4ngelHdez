@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 ![https://github.com/4ngelHdez](https://media.licdn.com/dms/image/v2/D4D16AQF7rc1lihVEog/profile-displaybackgroundimage-shrink_350_1400/B4DZeE3QI0HMAY-/0/1750280766644?e=1756944000&v=beta&t=XVZEEHcirU8ZauI-m3Nm6eCD5ZkKOW8gCk3QRC44nBA)
 
-### Qué hay acerca de mi???
+### What about me???
 
-Comence mi carrera como Licenciado en Administración, obteniendo experiencia en el análisis de costos y control presupuestario. Actualmente estoy en proceso de transición profesional hacia el mundo del Data Analytics.<br>
+I began my career with a degree in Business Administration, gaining solid experience in cost analysis and budget control. Today, I’m changing my career path into the exciting world of Data Analytics.<br>
 <br>
-A lo largo de mi trayectoria he trabajado con información financiera, generando reportes y análisis que ayudaron a la toma de decisiones estratégicas. Esa experiencia despertó en mí un gran interés por la tecnología y el potencial del análisis de datos para transformar negocios.<br>
+Throughout my career, I have worked with financial information, creating reports and analyses that supported strategic decision-making. This experience sparked my passion for technology and the power of data analysis to transform businesses.<br>
 <br>
-En este camino, estoy ampliando mis habilidades en Python, SQL y Tableau, con formación práctica y enfoque en la resolución de problemas reales. Aunque estoy en etapa inicial con estas herramientas, tengo una base analítica fuerte, pensamiento lógico y muchas ganas de seguir creciendo.<br>
+I’m currently expanding my skills in Python, SQL, and ETL using tools such as Visual Studio Code, Azure Data Studio, Microsoft SQL Server, Power BI, Tableau, and Google BigQuery. My training is hands-on, with a strong focus on solving real-world problems.<br>
 <br>
-Busco una oportunidad en el área de Data Analytics o Business Intelligence, donde pueda aportar mi mirada desde los negocios, aprender de un equipo técnico y seguir desarrollándome como analista de datos.<br>
+I bring a strong analytical foundation, logical thinking, and a genuine drive to keep learning and growing<br>
+<br>
+I’m seeking opportunities in Data Analytics or Business Intelligence where I can contribute ideas, learn from a technical team, and continue developing as a data analyst.<br>
 
-#### ¿Dónde encontrarme?
+#### Where you can find me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel_Hernández_Sosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angel-hernandez-sosa/)
 [![Discord](https://img.shields.io/badge/Discord-@4ngelhdez-007BFF?style=social&logo=discord&logoColor=007BFF)](https://discord.com/)
 
@@ -36,4 +38,4 @@ Busco una oportunidad en el área de Data Analytics o Business Intelligence, don
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998)
 ![SQL](https://img.shields.io/badge/SQL-1B1F23?style=flat&logo=postgresql&logoColor=00E5FF)
 ![Tableau](https://img.shields.io/badge/Tableau-005F73?style=flat&logo=tableau&logoColor=FFB703)
-![Excel Avanzado](https://img.shields.io/badge/Excel_Avanzado-3BCEAC?style=flat&logo=microsoft-excel&logoColor=1D3557)
+![Advance Excel](https://img.shields.io/badge/Excel_Avanzado-3BCEAC?style=flat&logo=microsoft-excel&logoColor=1D3557)
