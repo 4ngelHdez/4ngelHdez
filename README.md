@@ -1,4 +1,4 @@
-## Hola a todos!!! 👋
+## Hello Everyone!!! 👋
 
 <!--
 **4ngelHdez/4ngelHdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://github.com/4ngelHdez](https://media.licdn.com/dms/image/v2/D4D16AQF7rc1lihVEog/profile-displaybackgroundimage-shrink_350_1400/B4DZeE3QI0HMAY-/0/1750280766644?e=1756944000&v=beta&t=XVZEEHcirU8ZauI-m3Nm6eCD5ZkKOW8gCk3QRC44nBA)
+![https://github.com/4ngelHdez](https://media.licdn.com/dms/image/v2/D4E16AQGP6oQoObMdVA/profile-displaybackgroundimage-shrink_350_1400/B4EZmJTEGNKgAY-/0/1758945100767?e=1761782400&v=beta&t=nXz2zmppvnHH4AITT_v2YpGvZ4aIA6N7ZImQRE88YRg)
 
 ### What about me???
 
