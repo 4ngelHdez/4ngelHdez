@@ -37,5 +37,10 @@ I’m seeking opportunities in Data Analytics or Business Intelligence where I c
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998)
 ![SQL](https://img.shields.io/badge/SQL-1B1F23?style=flat&logo=postgresql&logoColor=00E5FF)
-![Tableau](https://img.shields.io/badge/Tableau-005F73?style=flat&logo=tableau&logoColor=FFB703)
-![Advance Excel](https://img.shields.io/badge/Excel_Avanzado-3BCEAC?style=flat&logo=microsoft-excel&logoColor=1D3557)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+![Advance Excel](https://img.shields.io/badge/Avance_Excel-3BCEAC?style=flat&logo=microsoft-excel&logoColor=1D3557)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery--green?style=flat&logo=googlebigquery&logoColor=white&labelColor=green&color=green)
+
